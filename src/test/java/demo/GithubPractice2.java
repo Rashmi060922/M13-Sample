@@ -7,6 +7,7 @@ public class GithubPractice2 {
 		System.out.println("Practicing");
 		System.out.println("In ATE branch");
 		System.out.println("practice git conflicts from FE system");
+		System.out.println("paractice git conflicts from ATE system");
 	}
 
 }
