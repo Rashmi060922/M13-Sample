@@ -6,6 +6,7 @@ public class GithubPractice2 {
 		// TODO Auto-generated method stub
 		System.out.println("Practicing");
 		System.out.println("In ATE branch");
+		System.out.println("paractice got conflicts from FE system");
 	}
 
 }
